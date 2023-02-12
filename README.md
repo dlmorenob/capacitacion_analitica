@@ -1,4 +1,4 @@
-# capacitacion_analitica
+# Transferencia de conocimienos en analítica con énfasis en video
 
 ### Aquí se cargan los archivos de las sesiones semanales de revisión sobre analítica de video.
 ### 
